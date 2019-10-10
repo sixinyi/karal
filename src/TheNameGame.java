@@ -1,3 +1,4 @@
+// 10.10.2019 Bruce this is a namegame
 import java.util.Scanner;
 
 public class TheNameGame {
