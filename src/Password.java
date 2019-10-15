@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class Password {
     public static void main(String[] args){
         Scanner input= new Scanner(System.in);
-        System.out.print("First name: ");
-        String first= input.next();
-        System.out.print("Middle name: ");
-        String middle= input.next();
+        System.out.println("First name: ");
+        String first= input.nextLine();
+        System.out.println("Middle name: ");
+        String middle= input.nextLine();
         System.out.print("Last name: ");
-        String last= input.next();
-        System.out.print("Age: ");
+        String last= input.nextLine();
+        System.out.println("Age: ");
         int age=input.nextInt();
         System.out.println(" ");
         System.out.print("Password: ");
