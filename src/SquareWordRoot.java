@@ -1,5 +1,5 @@
 // 10.15 Bruce about detect the length of a input word. Then it will C the Square of length, to find integer.
-print out .....
+// print out .....
 import java.util.Scanner;
 
 public class SquareWordRoot {
